@@ -8,5 +8,3 @@ F
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
-G
-backend/backend/urls.py,f/a/fac68c6ab2f941125a52ad921d4508a9eee57da8
